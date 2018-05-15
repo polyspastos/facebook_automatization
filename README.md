@@ -1,3 +1,6 @@
-# facebook_send_random_subreddits
+# facebook_automatization
 
-This amazing script spams one of your friends with three amazing (?!) subreddits.
+Hobby project.
+Done so far:
+* spamming one of your friends with three amazing (?!) subreddits
+* sending five top submissions from a subreddit to a friend
